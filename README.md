@@ -1,4 +1,3 @@
-Structural Principle of Entanglement (PSE)
 The Structural Principle of Entanglement (PSE) is a theoretical framework in which distance and structural correlation 
 emerge from a prespatial structure.
 The ontological chain describes the formation of fundamental and emergent structures and the crossing of complexity thresholds
