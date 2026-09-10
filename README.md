@@ -8,6 +8,7 @@ Repository Content
 This repository contains the official documentation of the PSE:
 
 PSE – Conceptual Framework
+
 PSE – Mathematical Formalization
 
 Both documents define the prespatial domain, the emergence of structural correlation, 
