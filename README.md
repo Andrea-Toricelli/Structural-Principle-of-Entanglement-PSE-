@@ -20,7 +20,7 @@ The repository provides a stable, versioned reference for the PSE, complementary
 Latest Release
 The current official version is:
 
-PSE – Version 6.4 – Zenodo  
+PSE – Version 6.5 – Zenodo  
 Available in the Releases section of this repository. 
 
 License
