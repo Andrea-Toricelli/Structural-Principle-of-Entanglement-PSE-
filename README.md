@@ -44,3 +44,7 @@ The PSE documents are distributed under CC BY‑NC‑ND 4.0
 Author
 Andrea Toricelli  
 Creator and maintainer of the Structural Principle of Entanglement. 
+
+📣 Discussion: Introduction to PSE 6.5  
+https://github.com/Andrea-Toricelli/Structural-Principle-of-Entanglement-PSE-/discussions/1
+
