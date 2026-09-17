@@ -1,8 +1,12 @@
 The Structural Principle of Entanglement (PSE) is a theoretical framework in which distance and structural correlation 
 emerge from a prespatial structure.
+
+https://doi.org/10.5281/zenodo.20218974
+
 The ontological chain describes the formation of fundamental and emergent structures and the crossing of complexity thresholds
 that make the compressive 
 and non‑invertible projection maps Φ definable, from which the observable physical domain arises. 
+
 Emergence follows a unidirectional and non-invertible ontological chain:
 
 S --𝔇--> D_S^(f)
