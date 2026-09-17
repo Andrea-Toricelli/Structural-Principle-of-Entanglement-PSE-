@@ -3,6 +3,16 @@ emerge from a prespatial structure.
 The ontological chain describes the formation of fundamental and emergent structures and the crossing of complexity thresholds
 that make the compressive 
 and non‑invertible projection maps Φ definable, from which the observable physical domain arises. 
+Emergence follows a unidirectional and non-invertible ontological chain:
+
+S --𝔇--> D_S^(f)
+      --Δ--> C_f
+            --F_λ--> D_S^(e)
+                    --G_λ--> C_e
+                            --R--> (X, D_S^(e), C_e)_reg
+                                    --Θ_k--> (X, D_S^(e), C_e)_reg^(k)
+                                            --Φ--> 𝒟_fisico
+
 
 Repository Content
 This repository contains the official documentation of the PSE:
