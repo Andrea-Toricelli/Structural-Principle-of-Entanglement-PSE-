@@ -22,6 +22,7 @@ The current official version is:
 
 PSE – Version 6.5 – Zenodo  
 Available in the Releases section of this repository. 
+Version 6.5 introduces a substantial editorial refinement, with clearer conceptual exposition and removal of redundant passages; the mathematical formalization remains unchanged.
 
 License
 The PSE documents are distributed under CC BY‑NC‑ND 4.0
